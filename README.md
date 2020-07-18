@@ -5,7 +5,7 @@ OpenCV based Invisible cloak
 
 ### Clone
 
-    Clone this repo to your local machine using https://github.com/kaustubh-sadekar/Invisibility_Cloak.git
+    Clone this repo to your local machine using https://github.com/AkhilGKrishnan/Invisible-Cloak.git
 
 ### setup/Requirements
 
